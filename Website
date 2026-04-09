@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI in Construction | Portfolio</title>
+  <title>AI in Construction | Portfolio | GitHub Pages</title>
   <style>
     :root {
       --ink-black: #0d1b2a;
@@ -597,7 +597,7 @@
           <h2>Selected work from this semester</h2>
           <p>
             Showcase your best assignments, project summaries, research writeups, presentations, or AI-related experiments from the course.
-            Each card can later link to a separate file, PDF, slide deck, or hosted page on Tiiny.host.
+            Each card can later link to a separate HTML page, PDF, slide deck, or GitHub Pages resource using relative links for easy deployment on GitHub.
           </p>
         </div>
 
@@ -667,7 +667,7 @@
   <footer>
     <div class="container footer-row">
       <p>© 2026 J M | AI in Construction and Construction Design Portfolio</p>
-      <p>Built for hosting on Tiiny.host</p>
+      <p>Built for deployment with GitHub Pages</p>
     </div>
   </footer>
 </body>
